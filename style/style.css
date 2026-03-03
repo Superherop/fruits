@@ -152,7 +152,6 @@ body{
     .headline h1{
         margin: 0 auto;
         text-align: center;
-        font-size: 16px;
     }    
 
     .box{
@@ -178,7 +177,7 @@ body{
     .headline h1{
         margin: 0 auto;
         text-align: center;
-        font-size: 14px;
+        font-size: 3.5rem;
     }
 
     .box {
